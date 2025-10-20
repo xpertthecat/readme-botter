@@ -26,7 +26,7 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - This system send multiple requets, so make sure you have plenty of networking or perform this operation on an different wifi. (It could be on a powerful virtual server.)
 
 # Stars ⭐
-- Send more views 50 Star ⭐ ✔️ 17.05.2023
+- Send more views 50 Star ⭐
 
 # Support Me 🙋‍♂️
 🚀 If you want to support me and help take this project even further, you can follow my GitHub account by clicking the link below! 🔗
